@@ -99,7 +99,7 @@ h5, h6          { font-weight: bolder }
 .clearfix:before,  
 .clearfix:after {  
     content: " ";  
-    display: table;
+    display: table;  
 }  
 .clearfix:after {  
     clear: both;  
@@ -529,10 +529,6 @@ h5, h6          { font-weight: bolder }
     margin-top: 90px;
 }
 
-.content.tags{
-    margin-top: 90px;
-}
-
 .content p{
     color: #4b4848;
     font-family: "raleway-regular", arial;
@@ -566,16 +562,6 @@ h5, h6          { font-weight: bolder }
 }
 
 .content div.archive-title{
-    margin-left: 45px;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-family: 'raleway-regular';
-    color: #454545;
-    font-size: 1.5em;
-    margin-bottom: 50px;
-}
-
-.content div.tag-title{
     margin-left: 45px;
     text-decoration: none;
     text-transform: uppercase;
